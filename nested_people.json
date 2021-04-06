@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Andrew",
+        "age": "5 years old",
+        "meals": [
+            {"name": "pizza", "calories": 999.23},
+            {"name": "apples", "calories": 50},
+            {"name": "apples", "calories": 50}
+        ],
+        "happy": true,
+        "location": {"city": "Melbourne", "coords": [1000, 3002]},
+        "optional_nickname": "Andy"
+    },
+    {
+        "name": "Jane",
+        "age": "1 year old",
+        "meals": [
+            {"name": "celery", "calories": -50},
+            {"name": "apples", "calories": 50},
+            {"name": "apples", "calories": 50}
+        ],
+        "happy": false,
+        "location": {"city": "New York", "coords": [3009, 10]},
+        "optional_nickname": "Jan"
+    }
+]
