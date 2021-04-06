@@ -12,7 +12,7 @@ def main(input: str):
     print("Extracting JSON data...")
     people = from_json(input)
 
-    print("Transforming nested people into flattened people...")
+    print("Transforming nested people into flat people...")
     flat_people=flatten_people(people)
 
     print("Loading flattened people into a CSV file...")
